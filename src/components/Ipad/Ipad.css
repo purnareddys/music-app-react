@@ -11,6 +11,10 @@
 .album-img {
   flex-direction: row;
 }
+.album-img img {
+  min-height: 20vh;
+  min-width: 20vw;
+}
 .album-song {
   flex-direction: row;
 }
